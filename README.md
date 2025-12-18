@@ -1,7 +1,7 @@
-<h1 align="center">👨‍💻 Matheuu · Full‑Stack Web Developer</h1>
+<h1 align="center">👨‍💻 Matheuu ·  Developer & Productor</h1>
 
 <p align="center">
-  Desarrollo soluciones web completas: del diseño de interfaz al modelo de datos y visualización en Power BI.
+  Desarrollo soluciones web, diseño de interfaz al modelo de datos y visualización en Power BI.
 </p>
 
 <p align="center">
