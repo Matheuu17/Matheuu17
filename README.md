@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="https://github.com/Matheuu17">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/TU_USUARIO">LinkedIn</a> ·
-  <a href="mailto:tu_correo@ejemplo.com">Email</a>
+  <a href="https://www.linkedin.com/in/matias-alcalá">LinkedIn</a> ·
+  <a href="mailto:matiasalcala123456@gmail.com">Email</a>
 </p>
 
 ---
