@@ -98,6 +98,6 @@
 
 ## 🌐 Contacto
 
-- 💼 LinkedIn: [TU_USUARIO](https://www.linkedin.com/in/TU_USUARIO)  
-- 📫 Email: **tu_correo@ejemplo.com**  
+- 💼 LinkedIn: [Matías Alcalá](www.linkedin.com/in/matias-alcalá)  
+- 📫 Email: **matiasalcala123456@gmail.com**  
 - 🎥 Abierto a colaborar en proyectos web, dashboards de datos y contenido técnico en video.  
