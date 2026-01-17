@@ -60,7 +60,7 @@
       <h3>📦 Sistema de Inventario</h3>
       <p>Control de stock, movimientos y reportes para negocios pequeños.</p>
       <p><strong>Stack:</strong> PHP · MySQL · Taildwind . Docker</p>
-      <a href="https://github.com/Matheuu17/InventarioJA">🔗 Ver repositorio</a>
+      <a href="https://github.com/innovation-jap/InventarioJA.git">🔗 Ver repositorio</a>
     </td>
     <td>
       <h3>🍽️ Plataforma para Restaurantes</h3>
